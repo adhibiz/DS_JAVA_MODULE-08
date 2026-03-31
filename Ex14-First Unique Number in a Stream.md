@@ -1,5 +1,4 @@
 # Ex14 Tracking the First Unique Number in a Stream using LinkedHashMap
-## DATE:  26-11-2025
 ## AIM:
 To implement a program that tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
 
